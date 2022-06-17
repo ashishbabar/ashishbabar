@@ -4,7 +4,7 @@ I'm a software developer from India with focus on Ethereum and Hyperledger fabri
 I am exploring how these techs can help improve industry.</br>
 
 
-Currently I am working on [ERC20Listener](https://github.com/ashishbabar/ERC20-Listener) and [Go-Eth-API-Router](https://github.com/ashishbabar/go-eth-api-router), Go implementation for Event listener and RESTful APIs for Ethereum based blockchain networks
+Currently I am working on [BountyExchange](https://github.com/ashishbabar/bounty-exchange), a platform that helps security analyst who manages to steal tokens from DeFi contracts to claim bounty securely.
 
 ### :speech_balloon: Get in touch
 - LinkedIn: https://www.linkedin.com/in/ashishbabar
